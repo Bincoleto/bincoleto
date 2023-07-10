@@ -5,5 +5,5 @@
 - 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Series e Tecnologia. 
 - 📫 Contate-me: marciobincoletojunior@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
-- ⚡ Fun fact: Ja participei de varias bandas e inclusive ja saimos como materia no jornal da cidade.
+- ⚡ Fun fact: Ja participei de varias bandas e algumas que até sairam em materias no jornal. 
 
