@@ -4,5 +4,6 @@
 - 🌱 Atualmente estou estudado HTML, CSS, Java e Python
 - 💬 Musica, Guitarras, HQs, Anime, Mangá e Series.
 - 📫 Contate-me: marciobincoletojunior@gmail.com
+- 📫 https://www.linkedin.com/in/marcio-bincoleto-junior/
 - ⚡ Fun fact: Tive uma banda que tocou em varias cidades proximas a onde moro
 
