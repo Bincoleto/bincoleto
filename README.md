@@ -5,7 +5,7 @@
 - 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Series e Tecnologia. 
 - 📫 Contate-me: marciobincoletojunior@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
-- ⚡ Fun fact: Jogo Yugioh e Cardfight Varguard e também adoro colecionar Action Figure e Pedais de guitarra. 
+- ⚡ Fun fact: Jogo Yugioh e Cardfight Varguard e One Piece TCG também adoro colecionar Action Figure e Pedais de guitarra. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
