@@ -2,10 +2,10 @@
 
 - 🔭 Sou Analista de dados, mas estou migrando para area de Front-End.
 - 🌱 Atualmente estou estudado HTML, CSS, Java Script e React
-- 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Series e Tecnologia. 
+- 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Cardgames, Series e Tecnologia. 
 - 📫 Contate-me: marciobincoletojunior@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
-- ⚡ Fun fact: Sou colecionador de Cards e Pedais de guitarra
+- ⚡ Fun fact: Jogo One piece TCG e também coleciono pedais de guitarra.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
