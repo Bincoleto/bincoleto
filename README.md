@@ -6,6 +6,7 @@
 - 📫 Contate-me: marciobincoletojunior@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
 - ⚡ Fun fact: Jogo One piece TCG e também coleciono pedais de guitarra.
+- Site: https://www.marciobincoletojunior.com.br/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-React" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256">
@@ -18,8 +19,6 @@
   ##
 
 <div>  
-  <a href="https://www.linkedin.com/in/marcio-bincoleto-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.marciobincoletojunior.com.br" target="_blank">Meu Site</a> 
-  
+  <a href="https://www.linkedin.com/in/marcio-bincoleto-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
