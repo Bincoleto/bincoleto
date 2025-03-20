@@ -19,5 +19,7 @@
 
 <div>  
   <a href="https://www.linkedin.com/in/marcio-bincoleto-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.marciobincoletojunior.com.br" target="_blank"><p color="white>Meu Site</p></a> 
+  
 </div>
 
