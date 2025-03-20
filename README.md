@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Jogo One piece TCG e também coleciono pedais de guitarra.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcio-React" height="30" width="40" src="[https://logospng.org/wp-content/uploads/react.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png)">
+  <img align="center" alt="Marcio-React" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256">
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
