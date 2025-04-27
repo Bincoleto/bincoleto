@@ -1,12 +1,9 @@
 ### Bem vindos! eu sou o Marcio Bincoleto Jr. 👋
 
-- 🔭 Analista de dados, mas estou migrando para area de Desenvolvimento.
-- 🌱 Atualmente estou estudado HTML, CSS, JavaScript e React
+- 🌱 Atualmente estou estudado HTML, CSS, JavaScript, React e Node JS.
 - 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Cardgames, Series e Tecnologia. 
-- 📫 Contate-me: marciobincoletojunior@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
+- 📫 Contate-me: marciobincoletojunior@gmail.com ou Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
 - ⚡ Fun fact: Jogo One piece TCG e também coleciono pedais de guitarra.
-- Site: https://www.marciobincoletojunior.com.br/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-React" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256">
