@@ -1,6 +1,6 @@
 ### Bem vindos! eu sou o Marcio Bincoleto Jr. 👋
 
-- 🌱 Atualmente estou estudado HTML, CSS, JavaScript, React, Node JS e Nest JS.
+- 🌱 Atualmente estou estudado HTML, CSS, JavaScript, React, Node.JS e NestJS.
 - 💬 Adoro falar sobre: Musica, Guitarras, HQs, Anime, Mangá, Cardgames, Series e Tecnologia. 
 - 📫 Contate-me: marciobincoletojunior@gmail.com ou Linkedin: https://www.linkedin.com/in/marcio-bincoleto-junior/
 - ⚡ Fun fact: Jogo One piece TCG e também coleciono pedais de guitarra.
